@@ -49,13 +49,6 @@ The dataset used in this project is the 'Default of Credit Card Clients Dataset'
 
 [List any libraries or tools required to run your project]
 
-## Authors
-
-- Soumitra Bhagdikar
-- Rajendra Goparaju
-- Shubhang Yadav
-- Sandaveni Vishal Reddy Vookanti
-- Khushboo Galrani
 
 ## Acknowledgments
 
