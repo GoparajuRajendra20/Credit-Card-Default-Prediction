@@ -41,15 +41,6 @@ The dataset used in this project is the 'Default of Credit Card Clients Dataset'
 - `Stats_Learning_Project_Report.pdf`: Detailed project report
 - `README.md`: This file, providing an overview of the project
 
-## How to Run
-
-[Include instructions on how to run your code, if applicable]
-
-## Dependencies
-
-[List any libraries or tools required to run your project]
-
-
 ## Acknowledgments
 
 This project was completed as part of the IE7300: Statistical Learning for Engineering course, Spring 2024.
