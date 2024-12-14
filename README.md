@@ -1,4 +1,4 @@
-# Credit Default Card Prediction
+# Default Credit Card Prediction
 
 ## Project Overview
 
