@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to assess the payment behavior of credit card customers in Taiwan and predict the likelihood of default. We use logistic regression techniques to create machine learning models for classifying customers as reliable or unreliable based on their payment history.
+This project aims to assess the payment behavior of credit card customers in Taiwan and predict the likelihood of default. Used logistic regression techniques to create machine learning models for classifying customers as reliable or unreliable based on their payment history.
 
 ## Dataset
 
