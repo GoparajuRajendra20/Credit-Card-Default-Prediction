@@ -40,6 +40,7 @@ The dataset used in this project is the 'Default of Credit Card Clients Dataset'
 
 - `Stats_Learning_Project_Report.pdf`: Detailed project report
 - `README.md`: This file, providing an overview of the project
+- `Credit Card Default Prediction.ipynb` : Project Exectuion
 
 ## Acknowledgments
 
